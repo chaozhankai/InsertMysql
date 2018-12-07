@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
+/**
+ * bat-demo
+ * java -jar InsertMysql.jar 12321.txt
+ * pause
+ */
+
 public class InsertMysql {
     private static String ReadTXT;  // 读取的txt文件
     private static String OutLINK;   // 写入带头像的垫包
