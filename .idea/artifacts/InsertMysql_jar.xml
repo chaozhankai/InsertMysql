@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InsertMysql:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InsertMysql_jar</output-path>
+    <root id="archive" name="InsertMysql.jar">
+      <element id="module-output" name="InsertMysql" />
+    </root>
+  </artifact>
+</component>
